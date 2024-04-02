@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/1033095/Desktop/Unreal Projects/GAD174_2/Content/NewMaterial.uasset",
+				"C:/Users/1033095/Desktop/Unreal Projects/GAD174_2/Content/M_Excalibur.uasset",
+				"C:/Users/1033095/Desktop/Unreal Projects/GAD174_2/Content/T_Excalibur_D.uasset",
+				"C:/Users/1033095/Desktop/Unreal Projects/GAD174_2/Content/T_Excalibur_M.uasset",
+				"C:/Users/1033095/Desktop/Unreal Projects/GAD174_2/Content/T_Excalibur_N.uasset",
+				"C:/Users/1033095/Desktop/Unreal Projects/GAD174_2/Content/E_T_UV.uasset",
+				"C:/Users/1033095/Desktop/Unreal Projects/GAD174_2/Content/NewMap.umap",
+				"C:/Users/1033095/Desktop/Unreal Projects/GAD174_2/Content/Excalibur.uasset",
+				"C:/Users/1033095/Desktop/Unreal Projects/GAD174_2/Content/M_Excalibur1.uasset"
+			]
+		}
+	]
+}
